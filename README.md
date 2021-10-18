@@ -1,1 +1,1 @@
-# RoboticaFMI2021
+# Introducere in Robotica, FMI UniBuc 2021
