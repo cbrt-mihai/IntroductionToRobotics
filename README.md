@@ -2,6 +2,8 @@
 
 ## Description
 
+  This repository was created in order to store, monitor and showcase my learning process, while taking the "Introduction to Robotics" Course from FMI UniBuc.
+
 ## Homeworks
 
 ### 1. Homework 0
