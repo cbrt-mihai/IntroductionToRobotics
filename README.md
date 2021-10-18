@@ -1,4 +1,4 @@
-# Introducere in Robotica, FMI UniBuc 2021
+# Introduction to Robotics, FMI UniBuc 2021
 
 ## Description
 
