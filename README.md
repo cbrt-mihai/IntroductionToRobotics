@@ -1,5 +1,6 @@
 # Introduction to Robotics, FMI UniBuc 2021
-_repository by Burța Mihai-Cătălin_
+
+<p align="right" >  <i> author: Burța Mihai-Cătălin </i> </p>
 
 ## Description
 
