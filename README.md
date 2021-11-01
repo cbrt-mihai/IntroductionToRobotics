@@ -30,6 +30,6 @@
     <li> State 4 (initiated after state 3 ends): red for cars, blinking green for people and a beeping sound from the buzzer, at a constant interval, faster than the beeping in state 3. Be  careful: pressing  the  button  in  any  state  other  than  state  1  shouldn't yield any actions. </li>
   </ol>
   
-  ![hw2_setup](https://github.com/cbrt-mihai/IntroductionToRobotics/blob/main/Homeworks/Homework2/setup.jpeg?raw=true)
+  ![hw2_setup](https://github.com/cbrt-mihai/IntroductionToRobotics/blob/main/Homeworks/Homework2/setup.jpg?raw=true)
   
   <p> Link to a video showcasing the functionality: <toBeAdded> </p>
