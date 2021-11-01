@@ -32,4 +32,4 @@
   
   ![hw2_setup](https://github.com/cbrt-mihai/IntroductionToRobotics/blob/main/Homeworks/Homework2/setup.jpg?raw=true)
   
-  <p> Link to a video showcasing the functionality: <toBeAdded> </p>
+  <p> Link to a video showcasing the functionality: https://youtu.be/ic3xrBNwLmI </p>
