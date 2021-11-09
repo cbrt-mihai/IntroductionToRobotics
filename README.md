@@ -33,3 +33,9 @@
   ![hw2_setup](https://github.com/cbrt-mihai/IntroductionToRobotics/blob/main/Homeworks/Homework2/setup.jpg?raw=true)
   
   <p> Link to a video showcasing the functionality: https://youtu.be/ic3xrBNwLmI </p>
+  
+  ### 4. Homework 3 - EMF/Ghost Detector
+  
+  ![hw3_setup](https://github.com/cbrt-mihai/IntroductionToRobotics/blob/main/Homeworks/Homework3/setup.jpg?raw=true)
+  
+  <p> Link to a video showcasing the functionality: https://youtu.be/rdw2sTlxTsE </p>
