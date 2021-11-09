@@ -37,7 +37,7 @@
   ### 4. Homework 3 - EMF/Ghost Detector
   
   <p> <b> Components: </b> a buzzer and a 7-segment display (or a led bar / or 8 ledsin a row that simulate a led bar) </p>
-<p> <b> Task: </b> You should detect EMF (check body and near outlets.  DO NOT IN-SERT INTO OUTLET - AKA NU-L BAGATI IN PRIZA). It should printthe value on the 7-segment display (or light the led bar)andshould makea sound based on the intensity. </p>
+<p> <b> Task: </b> You should detect EMF (check body and near outlets.  DO NOT INSERT INTO THE OUTLET). It should printthe value on the 7-segment display (or light the led bar)andshould makea sound based on the intensity. </p>
   
   ![hw3_setup](https://github.com/cbrt-mihai/IntroductionToRobotics/blob/main/Homeworks/Homework3/setup.jpg?raw=true)
   
