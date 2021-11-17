@@ -37,8 +37,17 @@
   ### 4. Homework 3 - EMF/Ghost Detector
   
   <p> <b> Components: </b> a buzzer and a 7-segment display (or a led bar / or 8 ledsin a row that simulate a led bar) </p>
-<p> <b> Task: </b> You should detect EMF (check body and near outlets.  DO NOT INSERT INTO THE OUTLET). It should printthe value on the 7-segment display (or light the led bar)andshould makea sound based on the intensity. </p>
+  <p> <b> Task: </b> You should detect EMF (check body and near outlets.  DO NOT INSERT INTO THE OUTLET). It should printthe value on the 7-segment display (or light the led bar)andshould makea sound based on the intensity. </p>
   
   ![hw3_setup](https://github.com/cbrt-mihai/IntroductionToRobotics/blob/main/Homeworks/Homework3/setup.jpg?raw=true)
   
   <p> Link to a video showcasing the functionality: https://youtu.be/rdw2sTlxTsE </p>
+  
+  ### 5. Homework 4 - 4 Digit 7-Segment Display, controlled by Joystick
+  
+  <p> <b> Components: </b> a  joystick,  a  4  digit  7-segment  display,  a  74hc595  shift register </p>
+  <p> <b> Task: </b> First  state:   you  can  use  a  joystick  axis  to  cycle  through  the  4digits; using the other axis does nothing.  A blinking decimal point showsthe current digit position.  When pressing the button (must use interruptfor  maximum  points!),  you  lock  in  on  the  selected  digit  and  enter  thesecond state.  In this state, the decimal point stays always on, no longerblinking and you can no longer use the axis to cycle through the 4 digits.Instead, using the other axis, you can increment on decrement the numberon the current digit.  Pressing the button again returns you to the previousstate.  For bonus, save the last value in eeprom and load it when startingarduino.  Also, keep in mind that when changing the number, you mustincrement it for each joystick movement - it should not work continuoslyincrement if you keep the joystick in one position. </p>
+  
+  ![hw4_setup](https://github.com/cbrt-mihai/IntroductionToRobotics/blob/main/Homeworks/Homework4/setup.jpg?raw=true)
+  
+  <p> Link to a video showcasing the functionality: https://youtu.be/Rzk1c3S49N4 </p>
